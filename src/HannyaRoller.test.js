@@ -2,7 +2,7 @@ import HannyaRoller from './HannyaRoller';
 import text from './hannya-text';
 
 describe('HannyaRoller', () => {
-  it('is OK', () => {
+  it('checks if 1 + 2 is equal to 3', () => {
     expect(1 + 2).toBe(3);
   });
 
